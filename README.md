@@ -23,6 +23,30 @@ pnpm install
 pnpm run dev
 ```
 
+## Screenshots
+The `pics/` folder contains screenshots used by the frontend. Preview them below (image paths are relative to the repository root):
+
+- Admin dashboard: `pics/admin.png`
+
+![Admin dashboard](pics/admin.png)
+
+- Cart page: `pics/cart.png`
+
+![Cart page](pics/cart.png)
+
+- Home / products listing: `pics/home.png`
+
+![Home / products listing](pics/home.png)
+
+- Login - admin user: `pics/login-admin-user.png`
+
+![Login - admin user](pics/login-admin-user.png)
+
+- Login - normal user: `pics/login-normal-user.png`
+
+![Login - normal user](pics/login-normal-user.png)
+
+
 ## API Routes
 Prefix: `/api`
 
@@ -87,3 +111,4 @@ An example Jest + Supertest file `tests/auth.test.ts` is included to test regist
 
 ## License
 MIT
+
